@@ -1,0 +1,11 @@
+//产品站
+<template>
+    <div>
+        product
+    </div>
+</template>
+<script>
+    export default {
+        name:'product'
+    }
+</script>
